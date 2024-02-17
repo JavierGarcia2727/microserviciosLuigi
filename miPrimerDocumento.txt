@@ -1,0 +1,3 @@
+antes de iniciar debo especificar que usuario va a trabajar con estas modificasiones
+
+git config --global user.name "javi garcia"
